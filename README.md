@@ -1,5 +1,5 @@
 # ipa-archive
-A iOS App Dumps (IPA) archive. Nothing special. None is owned by me. All files are tested. Please report outdated files. 
+A iOS App Dumps (IPA) archive. Nothing special. None is owned by me. All files are tested. Please report outdated files. Some files are heavily compressed down in size so some files may be corrupted/zip-bombified. Please report that in the Issues tab.
 
 # Types of apps
 
